@@ -10,6 +10,6 @@ int main()
     
     total = num1 + num2;
     
-    std::cout << "Total of " << num1 " + " << num2 << " = " << total;
+    std::cout << "Total of " << num1 << " + " << num2 << " = " << total;
     return 0;
 }
